@@ -22,7 +22,7 @@ firebase_storage
 To run the project kindly follow the following steps: 
 
 ### Clone the project
-git clone https://github.com/Ednah-Akoth/JobFinder_C1G9.git
+git clone https://github.com/Ed-Neema/Jobfinder_Mobile_App.git
 
 ### Open the project with vs code
 cd JobFinder_C1G9
